@@ -1,0 +1,6 @@
+{
+  "name": "NI Drip Central Electronics & Appliances",
+  "description": "Premium Electronics and Home Appliances website for Northern Ireland, showcasing TVs, washing machines, fridges, freezers, cookers, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
